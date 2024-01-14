@@ -1,3 +1,4 @@
+# This is our Serializer Page
 from rest_framework import serializers
 from .models import Course
 
